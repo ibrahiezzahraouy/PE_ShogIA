@@ -1,0 +1,7 @@
+Parachutage:	 
+Les joueurs peuvent réutiliser les pièces qu’ils ont prises et les replacer sur n’importe quelle case vide. Ceci compte pour un coup. Toutefois, cette règle comporte certaines conditions:
+Une pièce ne peut être parachutée et promue en même temps.
+On ne peut promouvoir une pièce parachutée qu’en la déplaçant entièrement ou partiellement dans la zone de promotion.
+Une pièce ne peut pas être parachutée sur une case d’où elle ne peut plus partir (c.f. restriction de déplacement pour le pion et le cavalier).
+Un pion ne peut pas être parachuté sur une colonne où se trouve déjà un pion non promu, appartenant au même joueur.
+Un pion ne peut pas être parachuté devant le roi pour faire échec et mat directement.

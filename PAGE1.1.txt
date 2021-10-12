@@ -1,0 +1,7 @@
+Objectif:
+L’objectif du jeu est de prendre le roi adverse. Quand le roi ne peut éviter d’être pris au coup suivant, la partie est terminée. On dit que le roi est "Mat".
+Joueurs:
+Le shogi oppose deux joueurs qui jouent chacun à leur tour.
+
+Échiquier:	
+

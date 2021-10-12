@@ -1,0 +1,13 @@
+ 
+ L'échiquier du Shogi se nomme Shogi Ban ("table de Shogi") et comporte 81 cases (9 x 9), les trois lignes les plus éloignées des joueurs constituant leur zone de promotion.
+
+ Pièces:	 
+ Au début de la partie chaque joueur dispose de 20 pièces: un roi, une tour, un fou, deux généraux d’or, deux généraux d’argent, deux cavaliers, deux lances, et neuf pions.
+ ProTips : Les déplacements possibles du général d'or,du général d'argent et de la lance sont indiqués par le motif de la pièce.
+Prise:	 
+Lorsqu’une pièce effectue un déplacement pour se trouver sur une case déjà occupée par une pièce du camp adverse, celle-ci est prise et enlevée de l’échiquier. Lorsqu’un joueur prend ces pièces à l’adversaire, il doit les garder bien en évidence sur le côté droit de l’échiquier.	 
+
+
+Caractères et déplacements:	 
+Toutes les pièces sont plates, de forme légèrement pointue et de couleur claire. Les pièces de chaque camp sont reconnaissables à la direction qu’elles indiquent par leurs pointes.
+Une pièce prend une pièce adverse lorsqu'elle en trouve une sur sa case de destination.
